@@ -1,0 +1,10 @@
+*.class
+*.jar
+*.war
+*.exe
+*.tmp
+*.bak
+*.swp
+*.classpath
+*.settings/
+*.loadpath
